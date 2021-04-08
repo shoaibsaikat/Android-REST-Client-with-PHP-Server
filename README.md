@@ -1,5 +1,6 @@
 # AndroidRESTClientFromPHPServer
-An android app which uses REST client to consume a PHP server. There are two modules here. One is PHP REST server another is Android REST client.
+It's an example of an android app, which uses REST client to consume a PHP server data.
+There are two modules here. One is PHP REST server another is Android REST client.
 
 
 How to run:
