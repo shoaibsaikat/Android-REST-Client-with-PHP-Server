@@ -1,4 +1,4 @@
-# AndroidRESTClientFromPHPServer
+# Android-REST-Client-with-PHP-Server
 It's an example of an android app, which uses REST client to consume a PHP server data.
 There are two modules here. One is PHP REST server another is Android REST client.
 
